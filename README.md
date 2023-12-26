@@ -2,7 +2,7 @@
 
 <img src="./img/Screenshot 2023-12-24 at 10.13.27 PM.png" alt="UI img" style="width: 60px, height: 80px"/>
 
-<img src="./img/nvim_files.png" alt="file_skleton" style="width: 3px, height: 5px" />
+<img src="./img/nvim_files.png" alt="UI img" style="width: 10px, height: 15px"/>
 
 <h3>Bring it locally...</h3>
 
